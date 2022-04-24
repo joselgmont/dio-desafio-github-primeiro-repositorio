@@ -1,0 +1,12 @@
+Adicionar alterações/ novos arquivos ao Stage:
+
+git add
+
+Criar a Commit (SAVESTATE):
+
+git commit -m (O -m é para adicionar um comentário entre aspas)
+
+Enviar para o repositório remoto:
+
+git push origin main
+
